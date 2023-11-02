@@ -1,0 +1,18 @@
+.navbar-brand-img {
+    display: block; /* Para que el margin: 0 auto; funcione */
+    margin: 0 auto; /* Centrar la imagen horizontalmente */
+    max-width: 150px; /* Ajusta el tamaño máximo según tus necesidades */
+    height: auto; /* Para mantener la proporción original */
+  }
+
+ /* Estilo personalizado para el color de fondo del botón */
+.bg-custom {
+  background-color: #0c479d; /* Cambia el color de fondo del botón a #00A14D */
+  color: white; /* Cambia el color del texto a blanco (opcional) */
+  border: none; /* Elimina el borde del botón (opcional) */
+  padding: 5px 10px; /* Ajusta el relleno del botón según tus preferencias (opcional) */
+  border-radius: 4px; /* Añade bordes redondeados al botón (opcional) */
+  cursor: pointer; /* Cambia el cursor al pasar por encima del botón (opcional) */
+}
+
+

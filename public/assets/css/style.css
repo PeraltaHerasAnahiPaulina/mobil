@@ -1,0 +1,53 @@
+/* Botones de color */
+.custom-button {
+    background-color: #0C479D;
+  }
+  
+  .custom-button:hover {
+    background-color: #0C479D;
+  }
+/* End Botones */
+
+
+/* Botones con el color definido 0C479D */
+.custom-link {
+  background-color: #0C479D;
+  display: inline-block;
+  padding: 10px 20px; /* Ajusta el espaciado interior del botón a tu gusto */
+  border-radius: 5px;
+  text-align: center; /* Centra el contenido horizontalmente */
+  max-width: 200px; /* Establece un ancho máximo para el botón */
+  text-decoration: none; /* Elimina el subrayado del enlace */
+  color: white; /* Cambia el color del texto a blanco */
+  transition: background-color 0.3s; /* Agrega una transición suave de color al pasar el cursor */
+}
+
+.custom-link:hover {
+  background-color: #0C479D;
+}
+/* END Botones con el color definido 0C479D */
+
+
+/* Boton de EDITAR */
+.botonamarillo {
+  background-color: #ffc107;
+  color: #ffffff; /* Text color */
+  border-color: #ffc107; /* Border color, if needed */
+}
+/* END Boton de EDITAR */
+
+/* Boton de ELIMINAR */
+.btn-custom2 {
+  background-color: #dc3545;
+  color: #ffffff; /* Text color */
+  border-color: #dc3545; /* Border color, if needed */
+}
+/* END Boton de ELIMINAR */
+
+/* Boton de VER */
+.btn-custom3 {
+  background-color: #0d6efd;
+  color: #ffffff; /* Text color */
+  border-color: #0d6efd; /* Border color, if needed */
+}
+/* END Boton de VER */
